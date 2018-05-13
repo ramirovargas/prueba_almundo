@@ -3,7 +3,7 @@ El diseño de la solucion se baso la entidad empleado y las de Operador, Supervi
 
 ![alt text](https://github.com/ramirovargas/prueba_almundo/blob/master/src/main/resources/dise%C3%B1o.jpg)
 
-El empleado tiene un atributo libre para saber que empleado esta libre
+El empleado tiene un atributo libre para saber si este esta libre
 El metodo dispatchcall busca repartir las tareas dependiendo el atributo libre del empleado
 
 Para los hilo de la aplicacion se utilizo la libreria thread y execution service para crear 10 pool de trabajo
